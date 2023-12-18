@@ -11,6 +11,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<UserRepository>();
 builder.Services.AddSingleton<List<User>>();
+builder.Services.AddSingleton<ItemsRepository>();
+builder.Services.AddSingleton<List<Items>>();
 
 var app = builder.Build();
 

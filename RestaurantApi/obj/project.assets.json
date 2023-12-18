@@ -1759,11 +1759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\RestaurantApi\\RestaurantApi.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\RestaurantApi\\RestaurantApi.csproj",
       "projectName": "RestaurantApi",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\RestaurantApi\\RestaurantApi.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\RestaurantApi\\RestaurantApi.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\RestaurantApi\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\RestaurantApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1780,11 +1780,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\Entities\\Entities.csproj"
+            "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\Repositories\\Repositories.csproj"
+            "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\Repositories\\Repositories.csproj"
             }
           }
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Week12\\RestaurantApp\\_18-12Week12_RestaurantApp\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
